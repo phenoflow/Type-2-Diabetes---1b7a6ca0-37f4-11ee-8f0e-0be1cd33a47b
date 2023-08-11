@@ -1,0 +1,342 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/dietary-type-2-diabetes---primary.py
+inputModule3:
+  class: File
+  path: python/type-2-diabetes-mellitus---primary.py
+inputModule4:
+  class: File
+  path: python/type-2-diabetes-admission---primary.py
+inputModule5:
+  class: File
+  path: python/type-2-diabetes-therapy---primary.py
+inputModule6:
+  class: File
+  path: python/type-2-diabetes-malnutritionrelated---primary.py
+inputModule7:
+  class: File
+  path: python/antidiabetic-type-2-diabetes---primary.py
+inputModule8:
+  class: File
+  path: python/type-2-diabetes-background---primary.py
+inputModule9:
+  class: File
+  path: python/type-2-diabetes-prolif---primary.py
+inputModule10:
+  class: File
+  path: python/type-2-diabetes-followup---primary.py
+inputModule11:
+  class: File
+  path: python/moderate-type-2-diabetes---primary.py
+inputModule12:
+  class: File
+  path: python/type-2-diabetes-ulcerated---primary.py
+inputModule13:
+  class: File
+  path: python/type-2-diabetes-score---primary.py
+inputModule14:
+  class: File
+  path: python/type-2-diabetes-questionnaire---primary.py
+inputModule15:
+  class: File
+  path: python/type-2-diabetes-control---primary.py
+inputModule16:
+  class: File
+  path: python/type-2-diabetes-borderline---primary.py
+inputModule17:
+  class: File
+  path: python/type-2-diabetes-tolerance---primary.py
+inputModule18:
+  class: File
+  path: python/type-2-diabetes-assessment---primary.py
+inputModule19:
+  class: File
+  path: python/type-2-diabetes---primary.py
+inputModule20:
+  class: File
+  path: python/type-2-diabetes-check---primary.py
+inputModule21:
+  class: File
+  path: python/type-2-diabetes-changed---primary.py
+inputModule22:
+  class: File
+  path: python/stable-type-2-diabetes---primary.py
+inputModule23:
+  class: File
+  path: python/type-2-diabetes-glycaemia---primary.py
+inputModule24:
+  class: File
+  path: python/patient-type-2-diabetes---primary.py
+inputModule25:
+  class: File
+  path: python/type-2-diabetes-default---primary.py
+inputModule26:
+  class: File
+  path: python/type-2-diabetes-program---primary.py
+inputModule27:
+  class: File
+  path: python/type-2-diabetes-shared---primary.py
+inputModule28:
+  class: File
+  path: python/type-2-diabetes-given---primary.py
+inputModule29:
+  class: File
+  path: python/annual-type-2-diabetes---primary.py
+inputModule30:
+  class: File
+  path: python/type-2-diabetes-blood---primary.py
+inputModule31:
+  class: File
+  path: python/type-2-diabetes-examination---primary.py
+inputModule32:
+  class: File
+  path: python/type-2-diabetes-review---primary.py
+inputModule33:
+  class: File
+  path: python/type-2-diabetes-month---primary.py
+inputModule34:
+  class: File
+  path: python/type-2-diabetes-microalbuminuria---primary.py
+inputModule35:
+  class: File
+  path: python/insulindependent-type-2-diabetes---primary.py
+inputModule36:
+  class: File
+  path: python/type-2-diabetes-screener---primary.py
+inputModule37:
+  class: File
+  path: python/type-2-diabetes-counselling---primary.py
+inputModule38:
+  class: File
+  path: python/type-2-diabetes-education---primary.py
+inputModule39:
+  class: File
+  path: python/type-2-diabetes-offered---primary.py
+inputModule40:
+  class: File
+  path: python/digital-type-2-diabetes---primary.py
+inputModule41:
+  class: File
+  path: python/retinal-type-2-diabetes---primary.py
+inputModule42:
+  class: File
+  path: python/painful-type-2-diabetes---primary.py
+inputModule43:
+  class: File
+  path: python/type-2-diabetes-management---primary.py
+inputModule44:
+  class: File
+  path: python/type-2-diabetes-refer---primary.py
+inputModule45:
+  class: File
+  path: python/type-2-diabetes-register---primary.py
+inputModule46:
+  class: File
+  path: python/type-2-diabetes-advice---primary.py
+inputModule47:
+  class: File
+  path: python/type-2-diabetes-diabetology---primary.py
+inputModule48:
+  class: File
+  path: python/multidisciplinary-type-2-diabetes---primary.py
+inputModule49:
+  class: File
+  path: python/specialist-type-2-diabetes---primary.py
+inputModule50:
+  class: File
+  path: python/type-2-diabetes-record---primary.py
+inputModule51:
+  class: File
+  path: python/type-2-diabetes-indicated---primary.py
+inputModule52:
+  class: File
+  path: python/type-2-diabetes-consent---primary.py
+inputModule53:
+  class: File
+  path: python/type-2-diabetes-audit---primary.py
+inputModule54:
+  class: File
+  path: python/type-2-diabetes-dissent---primary.py
+inputModule55:
+  class: File
+  path: python/type-2-diabetes-community---primary.py
+inputModule56:
+  class: File
+  path: python/type-2-diabetes-attended---primary.py
+inputModule57:
+  class: File
+  path: python/type-2-diabetes-attend---primary.py
+inputModule58:
+  class: File
+  path: python/under-type-2-diabetes---primary.py
+inputModule59:
+  class: File
+  path: python/type-2-diabetes-monitoring---primary.py
+inputModule60:
+  class: File
+  path: python/clinic-type-2-diabetes---primary.py
+inputModule61:
+  class: File
+  path: python/type-2-diabetes-letter---primary.py
+inputModule62:
+  class: File
+  path: python/type-2-diabetes-invite---primary.py
+inputModule63:
+  class: File
+  path: python/unsuitable-type-2-diabetes---primary.py
+inputModule64:
+  class: File
+  path: python/type-2-diabetes-quality---primary.py
+inputModule65:
+  class: File
+  path: python/type-2-diabetes-excepted---primary.py
+inputModule66:
+  class: File
+  path: python/type-2-diabetes-complicatn---primary.py
+inputModule67:
+  class: File
+  path: python/type-2-diabetes-maturity---primary.py
+inputModule68:
+  class: File
+  path: python/type-2-diabetes-ketoacidosis---primary.py
+inputModule69:
+  class: File
+  path: python/type-2-diabetes-unspecified---primary.py
+inputModule70:
+  class: File
+  path: python/hyperosmolar-type-2-diabetes---primary.py
+inputModule71:
+  class: File
+  path: python/ketoacidotic-type-2-diabetes---primary.py
+inputModule72:
+  class: File
+  path: python/renal-type-2-diabetes---primary.py
+inputModule73:
+  class: File
+  path: python/juvenile-type-2-diabetes---primary.py
+inputModule74:
+  class: File
+  path: python/nephropathy-type-2-diabetes---primary.py
+inputModule75:
+  class: File
+  path: python/ophthalmic-type-2-diabetes---primary.py
+inputModule76:
+  class: File
+  path: python/neurological-type-2-diabetes---primary.py
+inputModule77:
+  class: File
+  path: python/type-2-diabetes-amyotrophy---primary.py
+inputModule78:
+  class: File
+  path: python/mononeuropathy-type-2-diabetes---primary.py
+inputModule79:
+  class: File
+  path: python/neuropathy-type-2-diabetes---primary.py
+inputModule80:
+  class: File
+  path: python/type-2-diabetes-circulatory---primary.py
+inputModule81:
+  class: File
+  path: python/type-2-diabetes-gangrene---primary.py
+inputModule82:
+  class: File
+  path: python/type-2-diabetes-niddm---primary.py
+inputModule83:
+  class: File
+  path: python/hypoglycaemic-type-2-diabetes---primary.py
+inputModule84:
+  class: File
+  path: python/retinopathy-type-2-diabetes---primary.py
+inputModule85:
+  class: File
+  path: python/type-2-diabetes-reavens---primary.py
+inputModule86:
+  class: File
+  path: python/angiopathy-type-2-diabetes---primary.py
+inputModule87:
+  class: File
+  path: python/arthropathy-type-2-diabetes---primary.py
+inputModule88:
+  class: File
+  path: python/neuropathic-type-2-diabetes---primary.py
+inputModule89:
+  class: File
+  path: python/type-2-diabetes-state---primary.py
+inputModule90:
+  class: File
+  path: python/nonsteroid-type-2-diabetes---primary.py
+inputModule91:
+  class: File
+  path: python/dominant-type-2-diabetes---primary.py
+inputModule92:
+  class: File
+  path: python/type-2-diabetes-youth---primary.py
+inputModule93:
+  class: File
+  path: python/type-2-diabetes-autoimmune---primary.py
+inputModule94:
+  class: File
+  path: python/metabolic-type-2-diabetes---primary.py
+inputModule95:
+  class: File
+  path: python/type-2-diabetes-proteinuria---primary.py
+inputModule96:
+  class: File
+  path: python/maculopathy-type-2-diabetes---primary.py
+inputModule97:
+  class: File
+  path: python/secondary-type-2-diabetes---primary.py
+inputModule98:
+  class: File
+  path: python/type-2-diabetes-hyperglycaemia---primary.py
+inputModule99:
+  class: File
+  path: python/type-2-diabetes-mononeuritis---primary.py
+inputModule100:
+  class: File
+  path: python/advanced-type-2-diabetes---primary.py
+inputModule101:
+  class: File
+  path: python/type-2-diabetes-childbirth---primary.py
+inputModule102:
+  class: File
+  path: python/type-2-diabetes-puerperium---primary.py
+inputModule103:
+  class: File
+  path: python/type-2-diabetes-delivered---primary.py
+inputModule104:
+  class: File
+  path: python/type-2-diabetes-preexisting---primary.py
+inputModule105:
+  class: File
+  path: python/type-2-diabetes-pregnancy---primary.py
+inputModule106:
+  class: File
+  path: python/gestational-type-2-diabetes---primary.py
+inputModule107:
+  class: File
+  path: python/type-2-diabetes-fasting---primary.py
+inputModule108:
+  class: File
+  path: python/type-2-diabetes-poisoning---primary.py
+inputModule109:
+  class: File
+  path: python/type-2-diabetes-agent---primary.py
+inputModule110:
+  class: File
+  path: python/type-2-diabetes-reaction---primary.py
+inputModule111:
+  class: File
+  path: python/type-2-diabetes-gliclazide---primary.py
+inputModule112:
+  class: File
+  path: python/type-2-diabetes-satisfaction---primary.py
+inputModule113:
+  class: File
+  path: python/output-cases.py
